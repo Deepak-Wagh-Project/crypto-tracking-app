@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cart-react/static/css/main.830355d2.css",
+    "main.js": "/cart-react/static/js/main.7f87f115.js",
+    "static/media/iphone.png": "/cart-react/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/cart-react/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/cart-react/index.html",
+    "main.830355d2.css.map": "/cart-react/static/css/main.830355d2.css.map",
+    "main.7f87f115.js.map": "/cart-react/static/js/main.7f87f115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830355d2.css",
+    "static/js/main.7f87f115.js"
+  ]
+}
